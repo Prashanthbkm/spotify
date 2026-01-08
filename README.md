@@ -12,3 +12,6 @@ Tech Stack
 * HTML5: Structure of the application
 * CSS3: Styling and responsiveness
 * JavaScript: Functionality and interactivity
+
+live
+https://unrivaled-froyo-891419.netlify.app/
